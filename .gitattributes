@@ -15,7 +15,3 @@
 /build export-ignore
 /docs export-ignore
 /samples export-ignore
-
-# tests
-/phpunit.xml.dist export-ignore
-/tests export-ignore
